@@ -1,7 +1,5 @@
 # 🕵️‍♂️ OSINT Specialist & Web Security Enthusiast
 <br>
----
-<br>
 - 🔍 Advanced OSINT, Web App Pentesting, Threat Intelligence, and Automation.
 <br>
 - 🛠️ **Стек:** Python, Bash, Burp Suite, nmap, Maltego, SQLmap, SpiderFoot и др.
