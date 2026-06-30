@@ -1,6 +1,7 @@
 # Обо мне:
 <br>
-🕵️‍♂️ OSINT Specialist & Web Security Enthusiast
+## 🕵️‍♂️ OSINT Specialist & Web Security Enthusiast
+<br>
 ---
 <br>
 - 🔍 Advanced OSINT, Web App Pentesting, Threat Intelligence, and Automation.
