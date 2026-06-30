@@ -1,6 +1,4 @@
-# Обо мне:
-<br>
-## 🕵️‍♂️ OSINT Specialist & Web Security Enthusiast
+# 🕵️‍♂️ OSINT Specialist & Web Security Enthusiast
 <br>
 ---
 <br>
